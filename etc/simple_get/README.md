@@ -4,8 +4,7 @@
 
 ## Run the Programs
 
-bash```
+```console
 make
-
 ./app
 ```
