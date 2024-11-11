@@ -4,6 +4,7 @@
 
 - Study C Programming Language, one of the languages that will be use in this project.
 - Study and produce samples using Linux/Unix System Operating API regarding Networking Programming.
+- Implement a solution for logging
 
 ## Phase 2
 
